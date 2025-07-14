@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thomson-p
+- 👋 Hi, I’m x1x
 - Currently a software engineering student at Zetech University .
-- 👀 I’m interested in Back-end Development and Information Security.
-- 🌱 I’m currently learning Django.
+- 👀 I’m interested in Blockchain and Blockchain Security.
+- 🌱 I’m currently learning about SmartContracts.
 - 📫 How to reach me thomsonpeterr@gmail.com
 - 
 -  
